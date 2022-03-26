@@ -175,7 +175,7 @@ margin-left: 10px;
 }
 
 
-}
+
 
 .title-s {
 	font-weight: 600;
@@ -762,9 +762,7 @@ more media queries
 	.box-shadow-full {
 	  padding: 3rem;
 	}
+
 }
 
 
-.ty{
-	text-align: left;
-}

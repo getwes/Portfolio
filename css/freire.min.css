@@ -445,5 +445,13 @@ ul#projetos{
     .col-md-6 img {
         width: 100%;
     }
+
+    .progres{
+    
+        display: block;
+        height: 2px;
+        border-radius: 3px;
+        overflow: hidden;
+    }
 }
 
