@@ -257,22 +257,31 @@ ul#certificates li#cer3{
 }
 
 ul#certificates li#cer3:hover{
-    background-position: 0px 0px;
-    background-size: contain;
+    background-position: center;
+    background-size: 100% 100%;
+    height: 150px;
 
 }
 
+ul#certificates li#cer4:hover span{
+    opacity: 1;
+    margin-top: 322px;
+    position: absolute;
+    left: 34px;
+    top: -195px;
+    line-height: 9px;
+}
 
 ul#certificates li#cer4{
     background: url(../img/imgprojetos/pizzaria\ neiva.jfif);
-    background-position: 50% 50%;
-    background-size: 2056px 928px;
+    background-position:50% 50% ;
+    background-size: 970px 885px;
     background-color: #ffffff;
 }
 
 ul#certificates li#cer4:hover{
-    background-position: 0px 0px;
-    background-size: contain;
+    background-position: center;
+    background-size: 100% 100%;
     height: 150px;
 
 }
