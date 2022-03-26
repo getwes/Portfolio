@@ -237,7 +237,7 @@ ul#certificates li#cer1:hover{
 }
 
 ul#certificates li#cer2{
-    background-image: url(../img/certificates/2.jpeg);
+    background-image: url(../img/imgprojetos/google\ glass.jfif);
     background-position: 50% 50%;
     background-size: 676px 476px;
     background-color: #ffffff;
@@ -250,7 +250,7 @@ ul#certificates li#cer2:hover{
 }
 
 ul#certificates li#cer3{
-    background-image: url(../img/certificates/3.jpeg);
+    background-image: url(../img/imgprojetos/jogo\ da\ velha.jfif);
     background-position: 50% 50%;
     background-size: 970px 885px;
     background-color: #ffffff;
@@ -264,9 +264,9 @@ ul#certificates li#cer3:hover{
 
 
 ul#certificates li#cer4{
-    background: url(../img/certificates/4.jpg);
+    background: url(../img/imgprojetos/pizzaria\ neiva.jfif);
     background-position: 50% 50%;
-    background-size: 1056px 728px;
+    background-size: 2056px 928px;
     background-color: #ffffff;
 }
 
@@ -288,7 +288,7 @@ ul#certificates li#cer4:hover span{
 
 
 ul#certificates li#cer5{
-    background-image: url(../img/certificates/5.png);
+    background-image: url(../img/imgprojetos/);
     background-position: 50% 50%;
     background-size: 838px 594px;
     background-color: #ffffff;
