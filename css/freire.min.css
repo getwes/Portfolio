@@ -187,25 +187,25 @@ album certificados em courses
 ================================= */
 
 ul#certificates{
-    width: 900px;
+    width: 700px;
     margin: 0 auto;
-    padding: 82px;
+    padding: 50px;
     overflow: hidden;
     list-style: none;
 }
 
 ul#certificates li span{
     opacity: 0;
-    color: #ffffff;
-    text-shadow: 1px 1px 1px #000000;
-    background-color: rgba(0, 0, 0, .3);
-    font-size: 9pt;
+    color: #fff;
+    text-align: 1px 1px 1px #000;
+    background-color: rgba(0, 0, 0, 0.432);
+    font: 9pt;
     line-height: 370px;
     padding: 5px;
 }
 
 ul#certificates li:hover{
-    -webkit-transform: scale(2.0);
+    -webkit-transform: scale(1.5);
 }
 
 ul#certificates li:hover span{
@@ -219,70 +219,44 @@ ul#certificates li{
     margin: 10px;
     border: 5px solid #fff;
     background-color: #fff;
-    box-shadow: 1px 1px 3px rgba(0, 0, 0, .4);
-    -webkit-transition: all .5s ease-in;
+    box-shadow: 1px 1px 3px rgba(0,0,0.3);
+    -webkit-transition: all .4s ease-in;
 }
 
 ul#certificates li#cer1{
     background-image: url(../img/imgprojetos/pirront\ series.jfif);
     background-position: 50% 50%;
-    background-size: 970px 885px;
-    background-color: #ffffff;
+    background-size: 400px 400px;
     
 }
 
 ul#certificates li#cer1:hover{
     background-position: 0px 0px;
-    background-size: cover;
+    background-size: 200px 200px;
 }
 
 ul#certificates li#cer2{
     background-image: url(../img/imgprojetos/google\ glass.jfif);
     background-position: 50% 50%;
-    background-size: 676px 476px;
-    background-color: #ffffff;
+    background-size: 400px 400px;
+    background-color: #fff;
 }
 
 ul#certificates li#cer2:hover{
-    background-position: 0px 0px;
-    background-size: cover;
-
+    background-position:0px 0px;
+    background-size: 200px 200px;
 }
 
 ul#certificates li#cer3{
     background-image: url(../img/imgprojetos/jogo\ da\ velha.jfif);
     background-position: 50% 50%;
-    background-size: 970px 885px;
-    background-color: #ffffff;
-}
-
-ul#certificates li#cer3:hover{
-    background-position: center;
-    background-size: 100% 100%;
-    height: 150px;
-
-}
-
-ul#certificates li#cer4:hover span{
-    opacity: 1;
-    margin-top: 322px;
-    position: absolute;
-    left: 34px;
-    top: -195px;
-    line-height: 9px;
-}
-
-ul#certificates li#cer4{
-    background: url(../img/imgprojetos/pizzaria\ neiva.jfif);
-    background-position:50% 50% ;
-    background-size: 970px 885px;
-    background-color: #ffffff;
+    background-size: 400px 400px;
+    background-color: #fff;
 }
 
 ul#certificates li#cer4:hover{
-    background-position: center;
-    background-size: 100% 100%;
-    height: 150px;
+    background-position: 0px 0px;
+    background-size: 200px 200px;
 
 }
 
@@ -295,145 +269,44 @@ ul#certificates li#cer4:hover span{
     line-height: 9px;
 }
 
-
-ul#certificates li#cer5{
-    background-image: url(../img/imgprojetos/);
-    background-position: 50% 50%;
-    background-size: 838px 594px;
-    background-color: #ffffff;
-}
-
-ul#certificates li#cer5:hover{
-    background-position: 0px 0px;
-    background-size: contain;
-    height: 140px;
-
-}
-ul#certificates li#cer5:hover span{
-    opacity: 1;
-    margin-top: 319px;
-    position: absolute;
-    left: 15px;
-    top: -200px;
-    line-height: 9px;
-}
-
-ul#certificates li#cer6{
-    background-image: url(../img/certificates/6.jpg);
-    background-position: 50% 50%;
-    background-size: 1004px 712px;
-    background-color: #ffffff;
-}
-
-ul#certificates li#cer6:hover{
-    background-position: 0px 0px;
-    background-size: contain;
-    height: 140px;
-}
-
-ul#certificates li#cer6:hover span{
-    opacity: 1;
-    margin-top: 319px;
-    position: absolute;
-    left: 30px;
-    top: -200px;
-    line-height: 9px;
-}
-
-ul#certificates li#cer7{
-    background-image: url(../img/certificates/7.jpg);
-    background-position: 50% 50%;
-    background-size: 1004px 712px;
-    background-color: #ffffff;
-}
-
-ul#certificates li#cer7:hover{
-    background-position: 0px 0px;
-    background-size: contain;
-    height: 140px;
-}
-
-ul#certificates li#cer7:hover span{
-    opacity: 1;
-    margin-top: 319px;
-    position: absolute;
-    left: 30px;
-    top: -200px;
-    line-height: 9px;
-}
-
-
-ul#certificates li#cer8{
-    background-image: url(../img/certificates/8.jpg);
-    background-position: 50% 50%;
-    background-size: 970px 885px;
-    background-color: #ffffff;
-    
-}
-
-ul#certificates li#cer8:hover{
-    background-position: 0px 0px;
-    background-size: cover;
-    left: 170px;
-}
-
 ul#certificates li#cer9{
-    background-image: url(../img/certificates/9.png);
+    background-image: url(../img/imgprojetos/pizzaria\ neiva.jfif);
     background-position: 50% 50%;
-    background-size: 970px 885px;
-    background-color: #ffffff;
+    background-size: 400px 400px;
+    background-color: #fff;
     
 }
 
 ul#certificates li#cer9:hover{
     background-position: 0px 0px;
-    background-size: contain;
-    height: 110px;
+    background-size: 200px 200px;
 }
 
-ul#certificates li#cer9:hover span{
-    opacity: 1;
-    margin-top: 319px;
-    position: absolute;
-    left: 55px;
-    top: -230px;
-    line-height: 9px;
+ul#certificates li#cer7{
+    background-image: url(../img/imgprojetos/pizzaria\ neiva.jfif);
+    background-position: 50% 50%;
+    background-size: 400px 400px;
+    background-color: #fff;
+    
 }
+
+ul#certificates li#cer7:hover{
+    background-position: 0px 0px;
+    background-size: 200px 200px;
+}
+
 
 ul#certificates li#cer10{
     background-image: url(../img/certificates/10.png);
     background-position: 50% 50%;
-    background-size: 1004px 712px;
-    background-color: #ffffff;
+    background-size: 400px 400px;
+    background-color: #fff;
 }
-
 ul#certificates li#cer10:hover{
     background-position: 0px 0px;
-    background-size: contain;
-    height: 140px;
+    background-size: 200px 200px;
 }
 
-ul#certificates li#cer10:hover span{
-    opacity: 1;
-    margin-top: 319px;
-    position: absolute;
-    left: 30px;
-    top: -200px;
-    line-height: 9px;
-}
-
-ul#certificates li#cer11{
-    background-image: url(../img/certificates/11.png);
-    background-position: 50% 50%;
-    background-size: 970px 885px;
-    background-color: #ffffff;
-    
-}
-
-ul#certificates li#cer11:hover{
-    background-position: 0px 0px;
-    background-size: cover;
-}
 
 /* lista de projetos */
 ul#projetos{
