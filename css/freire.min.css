@@ -283,7 +283,7 @@ ul#certificates li#cer9:hover{
 }
 
 ul#certificates li#cer7{
-    background-image: url(../img/imgprojetos/pizzaria\ neiva.jfif);
+    background-image: url(../img/imgprojetos/snake\ game.png);
     background-position: 50% 50%;
     background-size: 400px 400px;
     background-color: #fff;
@@ -297,7 +297,7 @@ ul#certificates li#cer7:hover{
 
 
 ul#certificates li#cer10{
-    background-image: url(../img/certificates/10.png);
+    background-image: url(../img/imgprojetos/controle\ de\ series.jfif);
     background-position: 50% 50%;
     background-size: 400px 400px;
     background-color: #fff;
@@ -306,6 +306,21 @@ ul#certificates li#cer10:hover{
     background-position: 0px 0px;
     background-size: 200px 200px;
 }
+
+ul#certificates li#cer4{
+    background-image: url(../img/imgprojetos/calculadora.jfif);
+    background-position: 50% 50%;
+    background-size: 400px 400px;
+    background-color: #fff;
+    
+}
+
+ul#certificates li#cer4:hover{
+    background-position: 0px 0px;
+    background-size: 200px 200px;
+}
+
+
 
 
 /* lista de projetos */
